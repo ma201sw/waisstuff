@@ -8,6 +8,7 @@ import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 
@@ -35,6 +36,11 @@ public class HelloController {
     	//return Response.status(Response.Status.NOT_FOUND).entity("Entity not found for UUID: " + uuid).build();
 
     	//return Response.ok("test", MediaType.TEXT_PLAIN_VALUE).build();
+    }
+    
+    @RequestMapping("/greeting")
+    public Greeting greeting(@RequestParam(value="name", defaultValue="World") String name) {
+        return new Greeting(1,name);
     }
 
 }
