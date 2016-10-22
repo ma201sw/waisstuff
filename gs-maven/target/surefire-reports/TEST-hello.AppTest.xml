@@ -5,7 +5,7 @@
     <property name="sun.boot.library.path" value="G:\program files\Java\jdk1.8.0_111\jre\bin"/>
     <property name="java.vm.version" value="25.111-b14"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="G:\workspace eclipse wai new\gs-maven"/>
+    <property name="maven.multiModuleProjectDirectory" value="G:\git\gs-maven"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="G:\workspace eclipse wai new\gs-maven"/>
+    <property name="user.dir" value="G:\git\gs-maven"/>
     <property name="java.runtime.version" value="1.8.0_111-b14"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="G:\program files\Java\jdk1.8.0_111\jre\lib\endorsed"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="G:\workspace eclipse wai new\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf298611366548172923.tmp"/>
+    <property name="classworlds.conf" value="G:\workspace eclipse wai new\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf732193846559335074.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="G:\program files\Java\jdk1.8.0_111\bin;H:\windows\Sun\Java\bin;H:\windows\system32;H:\windows;G:/program files/Java/jdk1.8.0_111/jre/bin/server;G:/program files/Java/jdk1.8.0_111/jre/bin;G:/program files/Java/jdk1.8.0_111/jre/lib/amd64;H:\ProgramData\Oracle\Java\javapath;H:\Program Files\Java\jdk1.6.0_45\jre\bin;H:\Program Files (x86)\Windows Resource Kits\Tools\;H:\Program Files\Common Files\Microsoft Shared\Windows Live;H:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;H:\windows\system32;H:\windows;H:\windows\System32\Wbem;H:\windows\System32\WindowsPowerShell\v1.0\;H:\Program Files\Java\jre7\bin\java.exe;h:\android\android;H:\Program Files (x86)\Windows Live\Shared;h:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;h:\Program Files\Microsoft SQL Server\100\Tools\Binn\;h:\Program Files\Microsoft SQL Server\100\DTS\Binn\;M:\MoSync\bin;$path:$grails_home/bin;H:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;H:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;H:\Program Files (x86)\Skype\Phone\;H:\Program Files (x86)\Subversion\bin;g:\Program Files\Git\cmd;G:\downloads g\apache-maven-3.3.9\bin;G:\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -53,7 +53,7 @@
     <property name="java.ext.dirs" value="G:\program files\Java\jdk1.8.0_111\jre\lib\ext;H:\windows\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="G:\program files\Java\jdk1.8.0_111\jre\lib\resources.jar;G:\program files\Java\jdk1.8.0_111\jre\lib\rt.jar;G:\program files\Java\jdk1.8.0_111\jre\lib\sunrsasign.jar;G:\program files\Java\jdk1.8.0_111\jre\lib\jsse.jar;G:\program files\Java\jdk1.8.0_111\jre\lib\jce.jar;G:\program files\Java\jdk1.8.0_111\jre\lib\charsets.jar;G:\program files\Java\jdk1.8.0_111\jre\lib\jfr.jar;G:\program files\Java\jdk1.8.0_111\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="G:\workspace eclipse wai new\gs-maven\EMBEDDED"/>
+    <property name="maven.home" value="G:\git\gs-maven\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
