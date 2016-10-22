@@ -71,7 +71,7 @@
                 <version>2.6</version>
                 <configuration>
                     <warSourceDirectory>src/main/jwebapp</warSourceDirectory>
-                    <warName>waiapp</warName>
+                    <warName>gs-maven-0.1.0</warName>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                 </configuration>
             </plugin>
