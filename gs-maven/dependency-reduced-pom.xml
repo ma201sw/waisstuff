@@ -3,7 +3,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.springframework</groupId>
   <artifactId>gs-maven</artifactId>
-  <packaging>war</packaging>
   <name>testing</name>
   <version>0.1.0</version>
   <url>http://maven.apache.org</url>
@@ -30,8 +29,10 @@
       </plugin>
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
-        <version>2.4</version>
+        <version>2.6</version>
         <configuration>
+          <warSourceDirectory>src/main/jwebapp</warSourceDirectory>
+          <warName>gs-maven-0.1.0</warName>
           <failOnMissingWebXml>false</failOnMissingWebXml>
         </configuration>
       </plugin>

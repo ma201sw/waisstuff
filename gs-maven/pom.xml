@@ -73,6 +73,11 @@
                     <warSourceDirectory>src/main/jwebapp</warSourceDirectory>
                     <warName>gs-maven-0.1.0</warName>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
+                    <processTypes>
+                    	<web>
+                    		java $JAVA_OPTS -cp target/classes:target/dependency/* Application
+                    	</web>
+                    </processTypes>
                 </configuration>
             </plugin>
 		</plugins>
