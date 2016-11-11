@@ -32,7 +32,7 @@ public class HelloController {
 //		deserialization
 //		org.json.JSONObject obj = new org.json.JSONObject(responseAsString);  
 //		obj.optBoolean("success"); // false
-//		obj.optString("message"); // aaa
+//		obj.optString("message"); // aaaa
 		
         //return "Greetings from Spring Boot!";
     	//return Response.status(Response.Status.NOT_FOUND).entity("Entity not found for UUID: " + uuid).build();
